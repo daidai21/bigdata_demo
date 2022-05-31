@@ -1,4 +1,0 @@
-*.py linguist-language=python;
-*.java linguist-language=java;
-*.sh linguist-language=shell;
-*.sql linguist-language=sql;
