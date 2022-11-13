@@ -10,6 +10,8 @@ TODO:
 
 ### spark
 
+* 支持的编码语言： Java、Scala、Python、R 和 SQL
+
 TODO:
     SQL
     Stream
@@ -17,15 +19,16 @@ TODO:
     graphX
 
 TODO：
-    Java、Scala、Python、R 和 SQL；看看py的就行了
+    看看py和sql的 就行
+    看看py和sql，如果sql能支持py的全部特征 就不用再看py了
 
 ### flink
 
-TODO：
-    消费kafka消息计算特征这种，流式计算
+* 支持的编码语言： java、scala、py、SQL
 
 TODO：
-    java、scala、py、SQL
+    消费kafka消息计算特征这种，流式计算
+    看看py和sql，如果sql能支持py的全部特征 就不用再看py了
 
 ### links
 
